@@ -1,0 +1,14 @@
+{
+  "name": "MovieStore",
+  "version": "0.1.0",
+  "description": "A demo Movie Store app built with Node.js, MongoDB, Express and Nunjucks(The Mozilla server-side templating engine)",
+  "main": "app.js",
+  "dependencies": {
+    "consolidate": "~0.13.1",
+    "express": "~4.13.3",
+    "mongodb": "~2.1.3",
+    "nunjucks": "~2.2.0"
+  },
+  "author": "Mohammed Amine El Jirari",
+  "license": "0BSD"
+}
