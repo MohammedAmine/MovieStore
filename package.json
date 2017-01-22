@@ -10,5 +10,8 @@
     "nunjucks": "~2.2.0"
   },
   "author": "Mohammed Amine El Jirari",
-  "license": "0BSD"
+  "license": "0BSD",
+  "devDependencies": {
+    "node-dev": "^3.1.3"
+  }
 }
