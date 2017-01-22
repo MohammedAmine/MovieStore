@@ -12,6 +12,7 @@
   "author": "Mohammed Amine El Jirari",
   "license": "0BSD",
   "devDependencies": {
+    "body-parser": "^1.16.0",
     "node-dev": "^3.1.3"
   }
 }
