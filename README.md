@@ -11,7 +11,6 @@ A demo Movie Store app built with Node.js, MongoDB, Express and Nunjucks(The Moz
 
 #### Populate the Database
 
-`use video;`
 `db.collection('movies').insertOne({ "title": "Jaws", "year": 1975, "imdb": "tt0073195" });`
 `db.collection('movies').insertOne({ "title": "Mad Max 2: The Road Warrior", "year": 1981, "imdb": "tt0082694" });`
 `db.collection('movies').insertOne({ "title": "Raiders of the Lost Ark", "year": 1981, "imdb": "tt0082971" });`
